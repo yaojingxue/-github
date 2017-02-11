@@ -1,6 +1,7 @@
 ###三级标题
-下面是一张图片
-![狗狗](http://pic35.photophoto.cn/20150428/0035035951994293_b.jpg)
+
+![狗狗](http://cdn.duitang.com/uploads/item/201509/15/20150915182633_M2LuF.jpeg)
+
 ``` java
 public static init(){
 system.out.println("你好啊！")}
