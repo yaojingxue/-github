@@ -1,3 +1,4 @@
 ﻿public static init(){
 system.out.println("大家好！")}
 github上进行的添加 
+失败 是成功之母
