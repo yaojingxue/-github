@@ -1,8 +1,8 @@
-###Èı¼¶±êÌâ
+ï»¿###ä¸‰çº§æ ‡é¢˜
 
-![¹·¹·](http://cdn.duitang.com/uploads/item/201509/15/20150915182633_M2LuF.jpeg)
+![ç‹—ç‹—](http://cdn.duitang.com/uploads/item/201509/15/20150915182633_M2LuF.jpeg)
 
 ``` java
 public static init(){
-system.out.println("ÄãºÃ°¡£¡")}
+system.out.println("ä½ å¥½å•Šï¼")}
 ```
