@@ -20,5 +20,13 @@ request 请求客户端 response 响应 服务器
 3、在webcontent中新建jsp file文件和jsp html文件
 4、端口号设置80为默认端，浏览器中输入localhost即可不需要再输入(：8080)
 5、理解Moudules中Editor中（/名字  去掉名字），则在xml中由上而下选择界面
-
+六、理解mvc模式
+mvc :model view controller
+相当于小时候玩的插卡游戏机，model相当于游戏卡，view显示器，controller相当于手柄
+model相当于数据模型层（DAO entity，DBHelper）
+controller相当于调用DAO方法对数据库进行操作。
+view把从数据库中查询到的数据显示出来。
+七、处理表单重复提交的办法
+1、使用页面的重定向（不用页面转发）
+2、使用token 就是提交表单的时候返回给提交表单原始页面一个标识。当重复提交的时候，看见这个标识便不再提交直接返回。
 
